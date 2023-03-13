@@ -6,4 +6,6 @@ City : Guntur
 
 Job : Developer
 
+Skills : Mysql
+
 
